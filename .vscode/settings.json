@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ctype.h": "c",
+        "*.tcc": "c",
+        "cmath": "c",
+        "type_traits": "c",
+        "typeinfo": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
